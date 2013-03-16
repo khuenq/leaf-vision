@@ -191,7 +191,7 @@ int main(int argc, const char* argv[]){
 	//Confusion matrix
 	Mat confusion(no_of_classes, no_of_classes, CV_16SC1, cv::Scalar(0));
 	cout << "Identification results" << endl;
-	results.open("data/results.txt");
+	results.open("report/results.txt");
 	cout << "Image -> Predicted | Actual | Scientific name | Common name";
 	results << "Image -> Predicted | Actual | Scientific name | Common name";
 	for(int k = 0; k < test_image_paths.size(); k++){
@@ -234,7 +234,7 @@ int main(int argc, const char* argv[]){
 	cout << "Number of prediction errors: " << errorRate << endl;
 
 	//Write report
-	report.open("data/report.txt");
+	report.open("report/report.txt");
 	report << "Identification report";
 	report << "\n====================================================================";
 	if(!bow_dictionary.good() && !trainedsvm.good())

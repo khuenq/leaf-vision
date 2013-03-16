@@ -1,0 +1,15 @@
+﻿Build started 16-Mar-13 2:06:11 PM.
+     1>Project "C:\Users\Kaiser Khue\Documents\Visual Studio 2010\Projects\leaf-vision\LeafVision\LeafVision.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Kaiser Khue\Documents\Visual Studio 2010\Projects\leaf-vision\Release\".
+       InitializeBuildStatus:
+         Creating "Release\LeafVision.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\kaiser khue\documents\visual studio 2010\projects\leaf-vision\leafvision\masterInclude.h(22): fatal error C1083: Cannot open include file: 'opencv/cv.h': No such file or directory
+     1>Done Building Project "C:\Users\Kaiser Khue\Documents\Visual Studio 2010\Projects\leaf-vision\LeafVision\LeafVision.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.63
