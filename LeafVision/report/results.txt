@@ -63,7 +63,7 @@ Image -> Predicted | Actual | Scientific name | Common name
 07.10.jpg -> 7 | 7 | Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz. | Castor Aralia
 07.2.jpg -> 7 | 7 | Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz. | Castor Aralia
 07.3.jpg -> 7 | 7 | Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz. | Castor Aralia
-07.4.jpg -> 5 | 7 | Acer Palmatum | Japanese Maple
+07.4.jpg -> 7 | 7 | Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz. | Castor Aralia
 07.5.jpg -> 7 | 7 | Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz. | Castor Aralia
 07.6.jpg -> 7 | 7 | Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz. | Castor Aralia
 07.7.jpg -> 7 | 7 | Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz. | Castor Aralia
@@ -157,7 +157,7 @@ Image -> Predicted | Actual | Scientific name | Common name
 16.5.jpg -> 16 | 16 | Osmanthus fragrans Lour. | Sweet Osmanthus
 16.6.jpg -> 16 | 16 | Osmanthus fragrans Lour. | Sweet Osmanthus
 16.7.jpg -> 16 | 16 | Osmanthus fragrans Lour. | Sweet Osmanthus
-16.8.jpg -> 26 | 16 | Manglietia fordiana Oliv. | Ford Woodlotus
+16.8.jpg -> 10 | 16 | Berberis anhweiensis Ahrendt | Anhui Barberry
 16.9.jpg -> 16 | 16 | Osmanthus fragrans Lour. | Sweet Osmanthus
 17.1.jpg -> 17 | 17 | Cedrus deodara (Roxb.) G. Don | Deodar
 17.10.jpg -> 17 | 17 | Cedrus deodara (Roxb.) G. Don | Deodar
@@ -200,7 +200,7 @@ Image -> Predicted | Actual | Scientific name | Common name
 20.8.jpg -> 20 | 20 | Nerium oleander L. | Oleander
 20.9.jpg -> 20 | 20 | Nerium oleander L. | Oleander
 21.1.jpg -> 21 | 21 | Podocarpus macrophyllus (Thunb.) Sweet | Yew Plum Pine
-21.10.jpg -> 1 | 21 | Phyllostachys edulis (Carr.) Houz. | Pubescent Bamboo
+21.10.jpg -> 21 | 21 | Podocarpus macrophyllus (Thunb.) Sweet | Yew Plum Pine
 21.2.jpg -> 21 | 21 | Podocarpus macrophyllus (Thunb.) Sweet | Yew Plum Pine
 21.3.jpg -> 21 | 21 | Podocarpus macrophyllus (Thunb.) Sweet | Yew Plum Pine
 21.4.jpg -> 21 | 21 | Podocarpus macrophyllus (Thunb.) Sweet | Yew Plum Pine
@@ -293,7 +293,7 @@ Image -> Predicted | Actual | Scientific name | Common name
 30.10.jpg -> 30 | 30 | Populus xcanadensis Moench | Canadian Poplar
 30.2.jpg -> 30 | 30 | Populus xcanadensis Moench | Canadian Poplar
 30.3.jpg -> 31 | 30 | Liriodendron chinense (Hemsl.) Sarg. | Chinese Tulip Tree
-30.4.jpg -> 27 | 30 | Acer buergerianum Miq. | Trident Maple
+30.4.jpg -> 31 | 30 | Liriodendron chinense (Hemsl.) Sarg. | Chinese Tulip Tree
 30.5.jpg -> 30 | 30 | Populus xcanadensis Moench | Canadian Poplar
 30.6.jpg -> 30 | 30 | Populus xcanadensis Moench | Canadian Poplar
 30.7.jpg -> 30 | 30 | Populus xcanadensis Moench | Canadian Poplar
@@ -308,7 +308,7 @@ Image -> Predicted | Actual | Scientific name | Common name
 31.6.jpg -> 31 | 31 | Liriodendron chinense (Hemsl.) Sarg. | Chinese Tulip Tree
 31.7.jpg -> 31 | 31 | Liriodendron chinense (Hemsl.) Sarg. | Chinese Tulip Tree
 31.8.jpg -> 31 | 31 | Liriodendron chinense (Hemsl.) Sarg. | Chinese Tulip Tree
-31.9.jpg -> 31 | 31 | Liriodendron chinense (Hemsl.) Sarg. | Chinese Tulip Tree
+31.9.jpg -> 3 | 31 | Cercis chinensis | Chinese Redbud
 32.1.jpg -> 32 | 32 | Citrus reticulata Blanco | Tangerine
 32.10.jpg -> 32 | 32 | Citrus reticulata Blanco | Tangerine
 32.2.jpg -> 32 | 32 | Citrus reticulata Blanco | Tangerine

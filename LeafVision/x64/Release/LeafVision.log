@@ -1,5 +1,5 @@
-﻿Build started 16-Mar-13 2:11:29 PM.
-     1>Project "C:\Users\Kaiser Khue\Documents\Visual Studio 2010\Projects\leaf-vision\LeafVision\LeafVision.vcxproj" on node 2 (rebuild target(s)).
+﻿Build started 17-Mar-13 8:27:38 PM.
+     1>Project "C:\Users\Kaiser Khue\Documents\Visual Studio 2010\Projects\leaf-vision\LeafVision\LeafVision.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "x64\Release\LeafVision.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
@@ -25,8 +25,8 @@
        FinalizeBuildStatus:
          Deleting file "x64\Release\LeafVision.unsuccessfulbuild".
          Touching "x64\Release\LeafVision.lastbuildstate".
-     1>Done Building Project "C:\Users\Kaiser Khue\Documents\Visual Studio 2010\Projects\leaf-vision\LeafVision\LeafVision.vcxproj" (rebuild target(s)).
+     1>Done Building Project "C:\Users\Kaiser Khue\Documents\Visual Studio 2010\Projects\leaf-vision\LeafVision\LeafVision.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:05.63
+Time Elapsed 00:00:06.37

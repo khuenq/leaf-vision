@@ -29,7 +29,7 @@ int main(int argc, const char* argv[]){
 	double threshold = 240.0;
 	int threshold_type = THRESH_BINARY_INV;
 	//BOW dictionary size
-	int bow_dictionary_size = 250;
+	int bow_dictionary_size = 256;
 	//Standard image size
 	Size image_size(640, 480);
 	//Define data storage
