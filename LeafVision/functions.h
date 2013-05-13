@@ -24,7 +24,7 @@ void readCSV(const string &filename, vector<string> &images, vector<float>& labe
 		getline(liness, classlabel);
 		if(!path.empty() && !classlabel.empty()) {
 			images.push_back(path);
-			labels.push_back(atoi(classlabel.c_str()));
+			labels.push_back(strtol(classlabel.c_str(), NULL, 0));
 			if(count % 4 == 0){
 				cout << ".";
 			}
@@ -32,6 +32,13 @@ void readCSV(const string &filename, vector<string> &images, vector<float>& labe
 		}
 	}
 	cout << "\nRead " << images.size() << " image paths!" << endl;
+
+	//std::ofstream report;
+	//report.open("data/report.txt");
+	//for(int i = 0; i < labels.size(); i++){
+	//	report << labels[i] << endl;
+	//}
+	//report.close();
 }
 
 void readPlantData(const string &filename, vector<string> &scientific, vector<string> &common, char separator = '|'){
@@ -68,19 +75,31 @@ int minchannel(int chan1, int chan2, int chan3){
 	return min(min(chan1, chan2), chan3);
 }
 
+
+
 //Make image mask based on leaf shape
-double makeMask(Mat &image, Mat &result, double threshold = 240.0, int threshold_type = THRESH_BINARY_INV){
+void makeMask(Mat &image, Mat &result){
 	//Clone image
 	result = image.clone();
 
 	//Reduce image noise
-	medianBlur(result, result, 3);
+	cv::medianBlur(result, result, 11);
 
 	//Apply image thresholding
 	//Max color value, hard coded to 255 as input image was converted to gray scale
-	int colour = 255;
-	double t = cv::threshold(result, result, threshold, colour, threshold_type);
-	return t;
+	double t = cv::threshold(result, result, 0, 255, THRESH_BINARY_INV + THRESH_OTSU);
+}
+
+// Perform in-place unsharped masking operation
+void unsharpMask(cv::Mat& image) 
+{
+	cv::Mat normalized, tmp;
+	cv::normalize(image, normalized, 0, 255, NORM_MINMAX);
+	cv::GaussianBlur(normalized, tmp, cv::Size(5,5), 5);
+	cv::addWeighted(normalized, 2, tmp, -1, 0, normalized);
+	image = normalized.clone();
+	normalized.release();
+	tmp.release();
 }
 
 //Convert images to Cs channel images and extract masks
@@ -141,5 +160,21 @@ void toEdgeImage(Mat &image, Mat &result,
 		imwrite("images/segmentation/thresholded.jpg", result);
 
 		cv::morphologyEx(result, result, cv::MORPH_GRADIENT, cv::Mat());
+}
+
+void readCSV2(const std::string &filename, std::vector<std::string> &images){
+	std::ifstream file(filename.c_str(), std::ifstream::in);
+	if (!file) {
+		std::string error_message = "No valid input file was given, please check the given filename.";
+		CV_Error(CV_StsBadArg, error_message);
+	}
+	std::string line, path;
+	while (std::getline(file, line)) {
+		std::stringstream liness(line);
+		std::getline(liness, path);
+		if(!path.empty()) {
+			images.push_back(path);
+		}
+	}
 }
 #pragma endregion Functions

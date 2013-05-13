@@ -23,52 +23,9 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="opencv_calib3d242.dll" />
     <None Include="tbb_debug.dll" />
-    <None Include="opencv_calib3d242d.dll" />
-    <None Include="opencv_contrib242.dll" />
-    <None Include="opencv_contrib242d.dll" />
-    <None Include="opencv_core242.dll" />
-    <None Include="opencv_core242d.dll" />
-    <None Include="opencv_features2d242.dll" />
-    <None Include="opencv_features2d242d.dll" />
-    <None Include="opencv_ffmpeg242_64.dll" />
-    <None Include="opencv_flann242.dll" />
-    <None Include="opencv_flann242d.dll" />
-    <None Include="opencv_gpu242.dll" />
-    <None Include="opencv_gpu242d.dll" />
-    <None Include="opencv_highgui242.dll" />
-    <None Include="opencv_highgui242d.dll" />
-    <None Include="opencv_imgproc242.dll" />
-    <None Include="opencv_imgproc242d.dll" />
-    <None Include="opencv_legacy242.dll" />
-    <None Include="opencv_legacy242d.dll" />
-    <None Include="opencv_ml242.dll" />
-    <None Include="opencv_ml242d.dll" />
-    <None Include="opencv_nonfree242.dll" />
-    <None Include="opencv_nonfree242d.dll" />
-    <None Include="opencv_objdetect242.dll" />
-    <None Include="opencv_objdetect242d.dll" />
-    <None Include="opencv_photo242.dll" />
-    <None Include="opencv_photo242d.dll" />
-    <None Include="opencv_stitching242.dll" />
-    <None Include="opencv_stitching242d.dll" />
-    <None Include="opencv_ts242.dll" />
-    <None Include="opencv_ts242d.dll" />
-    <None Include="opencv_video242.dll" />
-    <None Include="opencv_video242d.dll" />
-    <None Include="opencv_videostab242.dll" />
-    <None Include="opencv_videostab242d.dll" />
     <None Include="data\dictionary.xml" />
     <None Include="data\trained_svm.xml" />
-    <None Include="data\CSV\database_testing.csv" />
-    <None Include="data\CSV\species.csv" />
-    <None Include="data\CSV\database_training.csv" />
     <None Include="database\test\01.1.jpg">
       <Filter>Resource Files</Filter>
     </None>
@@ -1033,5 +990,10 @@
     <None Include="OpenCV-Debug.props" />
     <None Include="create_csv.exe" />
     <None Include="tbb.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mainprog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
