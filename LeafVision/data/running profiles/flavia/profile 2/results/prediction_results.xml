@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<surf_parameters>
+  <surf_min_hessian>200.</surf_min_hessian>
+  <surf_noctaves>4</surf_noctaves>
+  <surf_noctave_layers>4</surf_noctave_layers>
+  <surf_extended>0</surf_extended>
+  <surf_upright>0</surf_upright></surf_parameters>
+<bag_of_words_parameters>
+  <bow_dictionary_size>512</bow_dictionary_size>
+  <bow_descriptor_size>512</bow_descriptor_size>
+  <bow_descriptor_type>5</bow_descriptor_type></bag_of_words_parameters>
+<svm_parameters>
+  <svm_C>3.1250000000000000e+002</svm_C>
+  <svm_type>100</svm_type>
+  <svm_kernel_type>2</svm_kernel_type>
+  <svm_class_weights type_id="opencv-matrix">
+    <rows>0</rows>
+    <cols>0</cols>
+    <dt>u</dt>
+    <data></data></svm_class_weights>
+  <svm_coef_zero>0.</svm_coef_zero>
+  <svm_degree>0.</svm_degree>
+  <svm_gamma>5.0625000000000009e-001</svm_gamma>
+  <svm_nu>0.</svm_nu>
+  <svm_p>0.</svm_p>
+  <svm_var_count>512</svm_var_count>
+  <svm_termcrit_type>3</svm_termcrit_type>
+  <svm_termcrit_epsilon>1.1920928955078125e-007</svm_termcrit_epsilon>
+  <svm_termcrit_max_iteration>1000</svm_termcrit_max_iteration>
+  <svm_total_support_vector>980</svm_total_support_vector></svm_parameters>
+<prediction_results>
+  "01.1.jpg" 1 "01.10.jpg" 1 "01.2.jpg" 1 "01.3.jpg" 1 "01.4.jpg" 1
+  "01.5.jpg" 1 "01.6.jpg" 1 "01.7.jpg" 1 "01.8.jpg" 1 "01.9.jpg" 1
+  "02.1.jpg" 2 "02.10.jpg" 2 "02.2.jpg" 2 "02.3.jpg" 2 "02.4.jpg" 2
+  "02.5.jpg" 2 "02.6.jpg" 2 "02.7.jpg" 2 "02.8.jpg" 2 "02.9.jpg" 2
+  "03.1.jpg" 3 "03.10.jpg" 3 "03.2.jpg" 3 "03.3.jpg" 3 "03.4.jpg" 3
+  "03.5.jpg" 3 "03.6.jpg" 3 "03.7.jpg" 3 "03.8.jpg" 3 "03.9.jpg" 3
+  "04.1.jpg" 4 "04.10.jpg" 4 "04.2.jpg" 4 "04.3.jpg" 4 "04.4.jpg" 4
+  "04.5.jpg" 4 "04.6.jpg" 4 "04.7.jpg" 4 "04.8.jpg" 4 "04.9.jpg" 4
+  "05.1.jpg" 5 "05.10.jpg" 5 "05.2.jpg" 5 "05.3.jpg" 5 "05.4.jpg" 5
+  "05.5.jpg" 5 "05.6.jpg" 5 "05.7.jpg" 5 "05.8.jpg" 5 "05.9.jpg" 5
+  "06.1.jpg" 6 "06.10.jpg" 6 "06.2.jpg" 6 "06.3.jpg" 6 "06.4.jpg" 6
+  "06.5.jpg" 6 "06.6.jpg" 6 "06.7.jpg" 14 "06.8.jpg" 6 "06.9.jpg" 6
+  "07.1.jpg" 7 "07.10.jpg" 7 "07.2.jpg" 7 "07.3.jpg" 7 "07.4.jpg" 7
+  "07.5.jpg" 7 "07.6.jpg" 7 "07.7.jpg" 7 "07.8.jpg" 7 "07.9.jpg" 7
+  "08.1.jpg" 8 "08.10.jpg" 8 "08.2.jpg" 8 "08.3.jpg" 8 "08.4.jpg" 8
+  "08.5.jpg" 8 "08.6.jpg" 8 "08.7.jpg" 8 "08.8.jpg" 8 "08.9.jpg" 8
+  "09.1.jpg" 9 "09.10.jpg" 9 "09.2.jpg" 9 "09.3.jpg" 9 "09.4.jpg" 9
+  "09.5.jpg" 9 "09.6.jpg" 9 "09.7.jpg" 9 "09.8.jpg" 9 "09.9.jpg" 9
+  "10.1.jpg" 10 "10.10.jpg" 10 "10.2.jpg" 10 "10.3.jpg" 23 "10.4.jpg" 10
+  "10.5.jpg" 10 "10.6.jpg" 10 "10.7.jpg" 10 "10.8.jpg" 10 "10.9.jpg" 10
+  "11.1.jpg" 11 "11.10.jpg" 11 "11.2.jpg" 11 "11.3.jpg" 11 "11.4.jpg" 11
+  "11.5.jpg" 11 "11.6.jpg" 11 "11.7.jpg" 11 "11.8.jpg" 11 "11.9.jpg" 11
+  "12.1.jpg" 12 "12.10.jpg" 12 "12.2.jpg" 12 "12.3.jpg" 12 "12.4.jpg" 12
+  "12.5.jpg" 12 "12.6.jpg" 12 "12.7.jpg" 12 "12.8.jpg" 12 "12.9.jpg" 12
+  "13.1.jpg" 13 "13.10.jpg" 13 "13.2.jpg" 13 "13.3.jpg" 13 "13.4.jpg" 13
+  "13.5.jpg" 13 "13.6.jpg" 13 "13.7.jpg" 13 "13.8.jpg" 13 "13.9.jpg" 13
+  "14.1.jpg" 14 "14.10.jpg" 14 "14.2.jpg" 14 "14.3.jpg" 14 "14.4.jpg" 14
+  "14.5.jpg" 14 "14.6.jpg" 14 "14.7.jpg" 14 "14.8.jpg" 14 "14.9.jpg" 14
+  "15.1.jpg" 15 "15.10.jpg" 15 "15.2.jpg" 15 "15.3.jpg" 15 "15.4.jpg" 15
+  "15.5.jpg" 15 "15.6.jpg" 15 "15.7.jpg" 15 "15.8.jpg" 15 "15.9.jpg" 15
+  "16.1.jpg" 16 "16.10.jpg" 16 "16.2.jpg" 16 "16.3.jpg" 16 "16.4.jpg" 16
+  "16.5.jpg" 16 "16.6.jpg" 16 "16.7.jpg" 16 "16.8.jpg" 3 "16.9.jpg" 16
+  "17.1.jpg" 17 "17.10.jpg" 17 "17.2.jpg" 17 "17.3.jpg" 17 "17.4.jpg" 17
+  "17.5.jpg" 17 "17.6.jpg" 17 "17.7.jpg" 17 "17.8.jpg" 17 "17.9.jpg" 17
+  "18.1.jpg" 18 "18.10.jpg" 18 "18.2.jpg" 18 "18.3.jpg" 18 "18.4.jpg" 18
+  "18.5.jpg" 18 "18.6.jpg" 15 "18.7.jpg" 18 "18.8.jpg" 18 "18.9.jpg" 18
+  "19.1.jpg" 19 "19.10.jpg" 19 "19.2.jpg" 19 "19.3.jpg" 19 "19.4.jpg" 19
+  "19.5.jpg" 19 "19.6.jpg" 19 "19.7.jpg" 19 "19.8.jpg" 19 "19.9.jpg" 19
+  "20.1.jpg" 20 "20.10.jpg" 20 "20.2.jpg" 20 "20.3.jpg" 20 "20.4.jpg" 20
+  "20.5.jpg" 20 "20.6.jpg" 20 "20.7.jpg" 20 "20.8.jpg" 20 "20.9.jpg" 20
+  "21.1.jpg" 1 "21.10.jpg" 21 "21.2.jpg" 21 "21.3.jpg" 21 "21.4.jpg" 21
+  "21.5.jpg" 21 "21.6.jpg" 21 "21.7.jpg" 21 "21.8.jpg" 21 "21.9.jpg" 21
+  "22.1.jpg" 22 "22.10.jpg" 22 "22.2.jpg" 22 "22.3.jpg" 22 "22.4.jpg" 22
+  "22.5.jpg" 22 "22.6.jpg" 22 "22.7.jpg" 22 "22.8.jpg" 22 "22.9.jpg" 22
+  "23.1.jpg" 23 "23.10.jpg" 23 "23.2.jpg" 23 "23.3.jpg" 23 "23.4.jpg" 23
+  "23.5.jpg" 23 "23.6.jpg" 4 "23.7.jpg" 23 "23.8.jpg" 23 "23.9.jpg" 23
+  "24.1.jpg" 24 "24.10.jpg" 24 "24.2.jpg" 24 "24.3.jpg" 24 "24.4.jpg" 24
+  "24.5.jpg" 24 "24.6.jpg" 24 "24.7.jpg" 24 "24.8.jpg" 24 "24.9.jpg" 24
+  "25.1.jpg" 25 "25.10.jpg" 25 "25.2.jpg" 25 "25.3.jpg" 25 "25.4.jpg" 25
+  "25.5.jpg" 25 "25.6.jpg" 25 "25.7.jpg" 25 "25.8.jpg" 25 "25.9.jpg" 25
+  "26.1.jpg" 26 "26.10.jpg" 26 "26.2.jpg" 26 "26.3.jpg" 26 "26.4.jpg" 26
+  "26.5.jpg" 26 "26.6.jpg" 26 "26.7.jpg" 26 "26.8.jpg" 26 "26.9.jpg" 26
+  "27.1.jpg" 27 "27.10.jpg" 27 "27.2.jpg" 27 "27.3.jpg" 27 "27.4.jpg" 27
+  "27.5.jpg" 27 "27.6.jpg" 27 "27.7.jpg" 27 "27.8.jpg" 27 "27.9.jpg" 27
+  "28.1.jpg" 28 "28.10.jpg" 28 "28.2.jpg" 28 "28.3.jpg" 28 "28.4.jpg" 28
+  "28.5.jpg" 28 "28.6.jpg" 28 "28.7.jpg" 28 "28.8.jpg" 28 "28.9.jpg" 28
+  "29.1.jpg" 29 "29.10.jpg" 29 "29.2.jpg" 29 "29.3.jpg" 29 "29.4.jpg" 29
+  "29.5.jpg" 29 "29.6.jpg" 29 "29.7.jpg" 29 "29.8.jpg" 29 "29.9.jpg" 29
+  "30.1.jpg" 30 "30.10.jpg" 30 "30.2.jpg" 30 "30.3.jpg" 30 "30.4.jpg" 30
+  "30.5.jpg" 30 "30.6.jpg" 30 "30.7.jpg" 30 "30.8.jpg" 30 "30.9.jpg" 30
+  "31.1.jpg" 31 "31.10.jpg" 31 "31.2.jpg" 31 "31.3.jpg" 31 "31.4.jpg" 31
+  "31.5.jpg" 31 "31.6.jpg" 31 "31.7.jpg" 31 "31.8.jpg" 31 "31.9.jpg" 31
+  "32.1.jpg" 32 "32.10.jpg" 32 "32.2.jpg" 32 "32.3.jpg" 32 "32.4.jpg" 32
+  "32.5.jpg" 32 "32.6.jpg" 32 "32.7.jpg" 32 "32.8.jpg" 32 "32.9.jpg" 32</prediction_results>
+<precision_rate>314</precision_rate>
+</opencv_storage>

@@ -1,0 +1,56 @@
+Image -> Predicted | Actual | Scientific name | Common name
+01.1.jpg -> 1 | 1 | Phyllostachys edulis (Carr.) Houz. | Pubescent Bamboo
+01.2.jpg -> 1 | 1 | Phyllostachys edulis (Carr.) Houz. | Pubescent Bamboo
+01.3.jpg -> 1 | 1 | Phyllostachys edulis (Carr.) Houz. | Pubescent Bamboo
+01.4.jpg -> 1 | 1 | Phyllostachys edulis (Carr.) Houz. | Pubescent Bamboo
+01.5.jpg -> 4 | 1 | Indigofera tinctoria L. | True Indigo
+02.1.jpg -> 2 | 2 | Aesculus chinensis | Chinese Horse Chestnut
+02.2.jpg -> 2 | 2 | Aesculus chinensis | Chinese Horse Chestnut
+02.3.jpg -> 2 | 2 | Aesculus chinensis | Chinese Horse Chestnut
+02.4.jpg -> 2 | 2 | Aesculus chinensis | Chinese Horse Chestnut
+02.5.jpg -> 2 | 2 | Aesculus chinensis | Chinese Horse Chestnut
+03.1.jpg -> 3 | 3 | Cercis chinensis | Chinese Redbud
+03.2.jpg -> 3 | 3 | Cercis chinensis | Chinese Redbud
+03.3.jpg -> 3 | 3 | Cercis chinensis | Chinese Redbud
+03.4.jpg -> 3 | 3 | Cercis chinensis | Chinese Redbud
+03.5.jpg -> 3 | 3 | Cercis chinensis | Chinese Redbud
+04.1.jpg -> 4 | 4 | Indigofera tinctoria L. | True Indigo
+04.2.jpg -> 4 | 4 | Indigofera tinctoria L. | True Indigo
+04.3.jpg -> 4 | 4 | Indigofera tinctoria L. | True Indigo
+04.4.jpg -> 4 | 4 | Indigofera tinctoria L. | True Indigo
+04.5.jpg -> 4 | 4 | Indigofera tinctoria L. | True Indigo
+05.1.jpg -> 5 | 5 | Acer Palmatum | Japanese Maple
+05.2.jpg -> 5 | 5 | Acer Palmatum | Japanese Maple
+05.3.jpg -> 30 | 5 | Populus ×canadensis Moench | Canadian Poplar
+05.4.jpg -> 5 | 5 | Acer Palmatum | Japanese Maple
+05.5.jpg -> 5 | 5 | Acer Palmatum | Japanese Maple
+06.1.jpg -> 6 | 6 | Phoebe nanmu (Oliv.) Gamble | Nanmu
+06.2.jpg -> 6 | 6 | Phoebe nanmu (Oliv.) Gamble | Nanmu
+06.3.jpg -> 6 | 6 | Phoebe nanmu (Oliv.) Gamble | Nanmu
+06.4.jpg -> 6 | 6 | Phoebe nanmu (Oliv.) Gamble | Nanmu
+06.5.jpg -> 6 | 6 | Phoebe nanmu (Oliv.) Gamble | Nanmu
+07.1.jpg -> 7 | 7 | Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz. | Castor Aralia
+07.2.jpg -> 7 | 7 | Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz. | Castor Aralia
+07.3.jpg -> 7 | 7 | Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz. | Castor Aralia
+07.4.jpg -> 5 | 7 | Acer Palmatum | Japanese Maple
+07.5.jpg -> 27 | 7 | Acer buergerianum Miq. | Trident Maple
+08.1.jpg -> 8 | 8 | Koelreuteria paniculata Laxm. | Goldenrain Tree
+08.2.jpg -> 8 | 8 | Koelreuteria paniculata Laxm. | Goldenrain Tree
+08.3.jpg -> 8 | 8 | Koelreuteria paniculata Laxm. | Goldenrain Tree
+08.4.jpg -> 8 | 8 | Koelreuteria paniculata Laxm. | Goldenrain Tree
+08.5.jpg -> 8 | 8 | Koelreuteria paniculata Laxm. | Goldenrain Tree
+20.1.jpg -> 20 | 20 | Nerium oleander L. | Oleander
+20.2.jpg -> 20 | 20 | Nerium oleander L. | Oleander
+20.3.jpg -> 20 | 20 | Nerium oleander L. | Oleander
+20.4.jpg -> 20 | 20 | Nerium oleander L. | Oleander
+20.5.jpg -> 20 | 20 | Nerium oleander L. | Oleander
+27.1.jpg -> 27 | 27 | Acer buergerianum Miq. | Trident Maple
+27.2.jpg -> 27 | 27 | Acer buergerianum Miq. | Trident Maple
+27.3.jpg -> 27 | 27 | Acer buergerianum Miq. | Trident Maple
+27.4.jpg -> 27 | 27 | Acer buergerianum Miq. | Trident Maple
+27.5.jpg -> 27 | 27 | Acer buergerianum Miq. | Trident Maple
+30.1.jpg -> 30 | 30 | Populus ×canadensis Moench | Canadian Poplar
+30.2.jpg -> 30 | 30 | Populus ×canadensis Moench | Canadian Poplar
+30.3.jpg -> 30 | 30 | Populus ×canadensis Moench | Canadian Poplar
+30.4.jpg -> 30 | 30 | Populus ×canadensis Moench | Canadian Poplar
+30.5.jpg -> 30 | 30 | Populus ×canadensis Moench | Canadian Poplar

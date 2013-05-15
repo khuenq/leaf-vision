@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<surf_descriptor_size>64</surf_descriptor_size>
+<bow_dictionary_size>256</bow_dictionary_size>
+<bow_descriptor_size>256</bow_descriptor_size>
+<bow_descriptor_type>5</bow_descriptor_type>
+<svm_C>1.</svm_C>
+<svm_type>100</svm_type>
+<svm_kernel_type>0</svm_kernel_type>
+<svm_termcrit_type>3</svm_termcrit_type>
+<svm_termcrit_epsilon>2.2204460492503131e-016</svm_termcrit_epsilon>
+<svm_termcrit_max_iteration>100</svm_termcrit_max_iteration>
+<svm_total_support_vector>28</svm_total_support_vector>
+<prediction_results>
+  "01.21.jpg" 1 "01.22.jpg" 7 "01.23.jpg" 3 "01.24.jpg" 1 "01.25.jpg" 7
+  "01.26.jpg" 7 "01.27.jpg" 7 "01.28.jpg" 7 "01.29.jpg" 1 "01.30.jpg" 7
+  "02.21.jpg" 6 "02.22.jpg" 3 "02.23.jpg" 6 "02.24.jpg" 3 "02.25.jpg" 3
+  "02.26.jpg" 3 "02.27.jpg" 6 "02.28.jpg" 6 "02.29.jpg" 3 "02.30.jpg" 7
+  "03.21.jpg" 7 "03.22.jpg" 3 "03.23.jpg" 7 "03.24.jpg" 7 "03.25.jpg" 3
+  "03.26.jpg" 3 "03.27.jpg" 7 "03.28.jpg" 7 "03.29.jpg" 6 "03.30.jpg" 1
+  "04.21.jpg" 7 "04.22.jpg" 4 "04.23.jpg" 4 "04.24.jpg" 1 "04.25.jpg" 7
+  "04.26.jpg" 4 "04.27.jpg" 7 "04.28.jpg" 7 "04.29.jpg" 7 "04.30.jpg" 7
+  "05.21.jpg" 7 "05.22.jpg" 6 "05.23.jpg" 7 "05.24.jpg" 5 "05.25.jpg" 7
+  "05.26.jpg" 7 "05.27.jpg" 7 "05.28.jpg" 6 "05.29.jpg" 6 "05.30.jpg" 7
+  "06.21.jpg" 7 "06.22.jpg" 8 "06.23.jpg" 6 "06.24.jpg" 6 "06.25.jpg" 7
+  "06.26.jpg" 7 "06.27.jpg" 7 "06.28.jpg" 7 "06.29.jpg" 6 "06.30.jpg" 6
+  "07.21.jpg" 6 "07.22.jpg" 7 "07.23.jpg" 6 "07.24.jpg" 7 "07.25.jpg" 7
+  "07.26.jpg" 6 "07.27.jpg" 7 "07.28.jpg" 7 "07.29.jpg" 7 "07.30.jpg" 7
+  "08.21.jpg" 7 "08.22.jpg" 7 "08.23.jpg" 7 "08.24.jpg" 8 "08.25.jpg" 7
+  "08.26.jpg" 7 "08.27.jpg" 8 "08.28.jpg" 3 "08.29.jpg" 7 "08.30.jpg" 8</prediction_results>
+</opencv_storage>

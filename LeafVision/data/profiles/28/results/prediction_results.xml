@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<enable_mask>1</enable_mask>
+<bag_of_words_parameters>
+  <surf_descriptor_size>128</surf_descriptor_size>
+  <bow_dictionary_size>1024</bow_dictionary_size>
+  <bow_descriptor_size>1024</bow_descriptor_size>
+  <bow_descriptor_type>5</bow_descriptor_type></bag_of_words_parameters>
+<svm_parameters>
+  <svm_C>3.1250000000000000e+002</svm_C>
+  <svm_type>100</svm_type>
+  <svm_kernel_type>2</svm_kernel_type>
+  <svm_class_weights type_id="opencv-matrix">
+    <rows>0</rows>
+    <cols>0</cols>
+    <dt>u</dt>
+    <data></data></svm_class_weights>
+  <svm_coef_zero>0.</svm_coef_zero>
+  <svm_degree>0.</svm_degree>
+  <svm_gamma>5.0625000000000009e-001</svm_gamma>
+  <svm_nu>0.</svm_nu>
+  <svm_p>0.</svm_p>
+  <svm_var_count>1024</svm_var_count>
+  <svm_termcrit_type>3</svm_termcrit_type>
+  <svm_termcrit_epsilon>1.1920928955078125e-007</svm_termcrit_epsilon>
+  <svm_termcrit_max_iteration>1000</svm_termcrit_max_iteration>
+  <svm_total_support_vector>155</svm_total_support_vector></svm_parameters>
+<prediction_results>
+  "01.21.jpg" 2 "01.22.jpg" 8 "01.23.jpg" 4 "01.24.jpg" 1 "01.25.jpg" 1
+  "01.26.jpg" 7 "01.27.jpg" 1 "01.28.jpg" 1 "01.29.jpg" 1 "01.30.jpg" 1
+  "02.21.jpg" 2 "02.22.jpg" 2 "02.23.jpg" 2 "02.24.jpg" 2 "02.25.jpg" 2
+  "02.26.jpg" 2 "02.27.jpg" 2 "02.28.jpg" 2 "02.29.jpg" 2 "02.30.jpg" 2
+  "03.21.jpg" 7 "03.22.jpg" 3 "03.23.jpg" 7 "03.24.jpg" 7 "03.25.jpg" 3
+  "03.26.jpg" 3 "03.27.jpg" 7 "03.28.jpg" 1 "03.29.jpg" 3 "03.30.jpg" 3
+  "04.21.jpg" 1 "04.22.jpg" 4 "04.23.jpg" 4 "04.24.jpg" 4 "04.25.jpg" 4
+  "04.26.jpg" 4 "04.27.jpg" 7 "04.28.jpg" 1 "04.29.jpg" 6 "04.30.jpg" 7
+  "05.21.jpg" 5 "05.22.jpg" 7 "05.23.jpg" 7 "05.24.jpg" 5 "05.25.jpg" 1
+  "05.26.jpg" 6 "05.27.jpg" 8 "05.28.jpg" 5 "05.29.jpg" 5 "05.30.jpg" 6
+  "06.21.jpg" 7 "06.22.jpg" 3 "06.23.jpg" 6 "06.24.jpg" 6 "06.25.jpg" 7
+  "06.26.jpg" 4 "06.27.jpg" 6 "06.28.jpg" 7 "06.29.jpg" 6 "06.30.jpg" 2
+  "07.21.jpg" 5 "07.22.jpg" 7 "07.23.jpg" 7 "07.24.jpg" 7 "07.25.jpg" 7
+  "07.26.jpg" 7 "07.27.jpg" 7 "07.28.jpg" 7 "07.29.jpg" 7 "07.30.jpg" 7
+  "08.21.jpg" 8 "08.22.jpg" 7 "08.23.jpg" 8 "08.24.jpg" 8 "08.25.jpg" 8
+  "08.26.jpg" 8 "08.27.jpg" 8 "08.28.jpg" 8 "08.29.jpg" 8 "08.30.jpg" 8</prediction_results>
+<precision_rate>52</precision_rate>
+</opencv_storage>
