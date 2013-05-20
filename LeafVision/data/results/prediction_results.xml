@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <opencv_storage>
 <surf_parameters>
-  <surf_min_hessian>300.</surf_min_hessian>
-  <surf_noctaves>6</surf_noctaves>
-  <surf_noctave_layers>5</surf_noctave_layers>
+  <surf_min_hessian>400.</surf_min_hessian>
+  <surf_noctaves>4</surf_noctaves>
+  <surf_noctave_layers>3</surf_noctave_layers>
   <surf_extended>0</surf_extended>
   <surf_upright>0</surf_upright></surf_parameters>
 <bag_of_words_parameters>
-  <bow_dictionary_size>1024</bow_dictionary_size>
-  <bow_descriptor_size>1024</bow_descriptor_size>
+  <bow_dictionary_size>900</bow_dictionary_size>
+  <bow_descriptor_size>900</bow_descriptor_size>
   <bow_descriptor_type>5</bow_descriptor_type></bag_of_words_parameters>
 <svm_parameters>
   <svm_C>3.1250000000000000e+002</svm_C>
@@ -24,11 +24,11 @@
   <svm_gamma>5.0625000000000009e-001</svm_gamma>
   <svm_nu>0.</svm_nu>
   <svm_p>0.</svm_p>
-  <svm_var_count>1024</svm_var_count>
+  <svm_var_count>900</svm_var_count>
   <svm_termcrit_type>3</svm_termcrit_type>
   <svm_termcrit_epsilon>1.1920928955078125e-007</svm_termcrit_epsilon>
   <svm_termcrit_max_iteration>1000</svm_termcrit_max_iteration>
-  <svm_total_support_vector>1060</svm_total_support_vector></svm_parameters>
+  <svm_total_support_vector>1091</svm_total_support_vector></svm_parameters>
 <prediction_results>
   "01.1.jpg" 1 "01.10.jpg" 1 "01.2.jpg" 1 "01.3.jpg" 1 "01.4.jpg" 1
   "01.5.jpg" 1 "01.6.jpg" 1 "01.7.jpg" 1 "01.8.jpg" 1 "01.9.jpg" 1
@@ -54,23 +54,23 @@
   "11.5.jpg" 11 "11.6.jpg" 11 "11.7.jpg" 11 "11.8.jpg" 11 "11.9.jpg" 11
   "12.1.jpg" 12 "12.10.jpg" 12 "12.2.jpg" 12 "12.3.jpg" 12 "12.4.jpg" 12
   "12.5.jpg" 12 "12.6.jpg" 12 "12.7.jpg" 12 "12.8.jpg" 12 "12.9.jpg" 12
-  "13.1.jpg" 13 "13.10.jpg" 13 "13.2.jpg" 13 "13.3.jpg" 13 "13.4.jpg" 13
+  "13.1.jpg" 13 "13.10.jpg" 13 "13.2.jpg" 3 "13.3.jpg" 13 "13.4.jpg" 13
   "13.5.jpg" 13 "13.6.jpg" 13 "13.7.jpg" 13 "13.8.jpg" 13 "13.9.jpg" 13
   "14.1.jpg" 14 "14.10.jpg" 14 "14.2.jpg" 14 "14.3.jpg" 14 "14.4.jpg" 14
   "14.5.jpg" 14 "14.6.jpg" 14 "14.7.jpg" 14 "14.8.jpg" 14 "14.9.jpg" 14
   "15.1.jpg" 15 "15.10.jpg" 15 "15.2.jpg" 15 "15.3.jpg" 15 "15.4.jpg" 15
   "15.5.jpg" 15 "15.6.jpg" 15 "15.7.jpg" 15 "15.8.jpg" 15 "15.9.jpg" 15
   "16.1.jpg" 16 "16.10.jpg" 16 "16.2.jpg" 16 "16.3.jpg" 16 "16.4.jpg" 16
-  "16.5.jpg" 16 "16.6.jpg" 16 "16.7.jpg" 16 "16.8.jpg" 13 "16.9.jpg" 16
+  "16.5.jpg" 16 "16.6.jpg" 16 "16.7.jpg" 16 "16.8.jpg" 32 "16.9.jpg" 16
   "17.1.jpg" 17 "17.10.jpg" 17 "17.2.jpg" 17 "17.3.jpg" 17 "17.4.jpg" 17
   "17.5.jpg" 17 "17.6.jpg" 17 "17.7.jpg" 17 "17.8.jpg" 17 "17.9.jpg" 17
   "18.1.jpg" 18 "18.10.jpg" 18 "18.2.jpg" 18 "18.3.jpg" 18 "18.4.jpg" 18
-  "18.5.jpg" 18 "18.6.jpg" 15 "18.7.jpg" 18 "18.8.jpg" 18 "18.9.jpg" 18
+  "18.5.jpg" 18 "18.6.jpg" 16 "18.7.jpg" 18 "18.8.jpg" 18 "18.9.jpg" 18
   "19.1.jpg" 19 "19.10.jpg" 19 "19.2.jpg" 19 "19.3.jpg" 19 "19.4.jpg" 19
   "19.5.jpg" 19 "19.6.jpg" 19 "19.7.jpg" 19 "19.8.jpg" 19 "19.9.jpg" 19
   "20.1.jpg" 20 "20.10.jpg" 20 "20.2.jpg" 20 "20.3.jpg" 20 "20.4.jpg" 20
   "20.5.jpg" 20 "20.6.jpg" 20 "20.7.jpg" 20 "20.8.jpg" 20 "20.9.jpg" 20
-  "21.1.jpg" 20 "21.10.jpg" 21 "21.2.jpg" 21 "21.3.jpg" 21 "21.4.jpg" 21
+  "21.1.jpg" 21 "21.10.jpg" 21 "21.2.jpg" 21 "21.3.jpg" 21 "21.4.jpg" 21
   "21.5.jpg" 21 "21.6.jpg" 21 "21.7.jpg" 21 "21.8.jpg" 21 "21.9.jpg" 21
   "22.1.jpg" 22 "22.10.jpg" 22 "22.2.jpg" 22 "22.3.jpg" 22 "22.4.jpg" 22
   "22.5.jpg" 22 "22.6.jpg" 22 "22.7.jpg" 22 "22.8.jpg" 15 "22.9.jpg" 22
@@ -91,8 +91,8 @@
   "30.1.jpg" 30 "30.10.jpg" 30 "30.2.jpg" 30 "30.3.jpg" 30 "30.4.jpg" 30
   "30.5.jpg" 30 "30.6.jpg" 30 "30.7.jpg" 30 "30.8.jpg" 30 "30.9.jpg" 30
   "31.1.jpg" 31 "31.10.jpg" 31 "31.2.jpg" 31 "31.3.jpg" 31 "31.4.jpg" 31
-  "31.5.jpg" 31 "31.6.jpg" 31 "31.7.jpg" 31 "31.8.jpg" 31 "31.9.jpg" 31
+  "31.5.jpg" 31 "31.6.jpg" 14 "31.7.jpg" 31 "31.8.jpg" 31 "31.9.jpg" 31
   "32.1.jpg" 32 "32.10.jpg" 32 "32.2.jpg" 32 "32.3.jpg" 32 "32.4.jpg" 32
   "32.5.jpg" 32 "32.6.jpg" 32 "32.7.jpg" 32 "32.8.jpg" 32 "32.9.jpg" 32</prediction_results>
-<precision_rate>313</precision_rate>
+<precision_rate>312</precision_rate>
 </opencv_storage>

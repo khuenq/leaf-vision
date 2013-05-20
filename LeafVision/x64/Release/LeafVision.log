@@ -1,4 +1,4 @@
-﻿Build started 15-May-13 2:16:05 PM.
+﻿Build started 18-May-13 8:56:07 PM.
      1>Project "C:\Users\Kaiser Khue\Documents\Visual Studio 2010\Projects\leaf-vision\LeafVision\LeafVision.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "x64\Release\LeafVision.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -31,4 +31,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:06.52
+Time Elapsed 00:00:05.77

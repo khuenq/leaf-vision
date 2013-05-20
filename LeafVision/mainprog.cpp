@@ -2,14 +2,14 @@
 #include "functions.h"
 
 //Function prototypes
-void train(string csv_train_path = "data/csv/flavia_train.csv", int bow_dictionary_size = 1024, 
-	int minHessian = 300, int nOctaves = 6, int nOctaveLayers = 5,  
+void train(string csv_train_path = "data/csv/flavia_train.csv", int bow_dictionary_size = 900, 
+	int minHessian = 400, int nOctaves = 4, int nOctaveLayers = 3,  
 	bool extended = false, bool upright = false);
 void test(string csv_test_path = "data/csv/flavia_test.csv", 
-	int minHessian = 300, int nOctaves = 6, int nOctaveLayers = 5,  
+	int minHessian = 400, int nOctaves = 4, int nOctaveLayers = 3,  
 	bool extended = false, bool upright = false);
 void test_special(string csv_test_path = "data/csv/flavia_test.csv", 
-	int minHessian = 300, int nOctaves = 6, int nOctaveLayers = 5,  
+	int minHessian = 400, int nOctaves = 4, int nOctaveLayers = 3,  
 	bool extended = false, bool upright = false);
 
 //Main program entry point
